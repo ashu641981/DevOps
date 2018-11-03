@@ -1,5 +1,9 @@
 This is third file.
 Addining line here.
 Added line for F1.
+<<<<<<< HEAD
 
 Line added on VM
+=======
+Added on Web.
+>>>>>>> 43d1ce399ab2aa2d730b7eb596a5737d664980bc
